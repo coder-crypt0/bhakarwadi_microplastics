@@ -1,0 +1,8 @@
+PyQt5
+ultralytics
+opencv-python
+numpy
+torch
+# Optional helpers
+# torchvision>=0.14.0  # required only if you use torchvision transforms
+# tqdm>=4.64.0         # progress bars for training/evaluation
